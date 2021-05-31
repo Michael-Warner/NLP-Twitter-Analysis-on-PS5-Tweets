@@ -13,14 +13,14 @@ The methodology used was an EDA on the dataset, data cleaning, feature engineeri
 
 ## Results:
 
-1)Evening time had the highest number of tweets of PS5 when twitter users were more active.
-2)Majority of PS5 tweets were from the US or the UK, especially in London and California.
-3)Over 85% of PS5 tweets came from different platforms of Twitter, the rest were from official PlayStation and third-party social media management service providers.
-4)The main topic of PS5 was about gaming, some of the most frequently used words were about PS5 itself directly and their competitors.
-5)The hashtags that appeared frequently were related to the PS5 device and its competitors, game streaming, and name of the games.
-6)In general, there were more negative emotions than positive ones on the Twitter dataset.
-7)Most of the positive words expressed user's support for the PS5 launch.
-8)Negative emotions were more about insufficient stock of PS5 and some product issues.
+1) Evening time had the highest number of tweets of PS5 when twitter users were more active.
+2) Majority of PS5 tweets were from the US or the UK, especially in London and California.
+3) Over 85% of PS5 tweets came from different platforms of Twitter, the rest were from official PlayStation and third-party social media management service providers.
+4) The main topic of PS5 was about gaming, some of the most frequently used words were about PS5 itself directly and their competitors.
+5) The hashtags that appeared frequently were related to the PS5 device and its competitors, game streaming, and name of the games.
+6) In general, there were more negative emotions than positive ones on the Twitter dataset.
+7) Most of the positive words expressed user's support for the PS5 launch.
+8) Negative emotions were more about insufficient stock of PS5 and some product issues.
 
 
 ## Conclusion:
